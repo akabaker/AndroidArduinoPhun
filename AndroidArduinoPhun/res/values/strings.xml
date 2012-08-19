@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">AndroidArduinoPhun</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ArduinoPhun</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="greeting">Select a color to turn LEDs on or off.</string>
+</resources>
